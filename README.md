@@ -14,7 +14,7 @@ A cloud-based task management application that allows users to create tasks, ass
 - **Assign Tasks** - Tasks can be assigned to team members
 - **Track Completion** - Users can mark tasks as complete and track progress
 - **Task List** - View, filter, and sort tasks
-- **Notifications** - Receive notifications for task assignments and updates
+
 
 ## Technology Stack
 
