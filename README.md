@@ -1,7 +1,6 @@
 # Cloud-Based Task Management App
 
 ## Project Overview
-
 This is a cloud-based task management application developed as part of the IS 384 – Cloud and DevOps course. The application enables teams to create, assign, track, and complete tasks in a collaborative environment.
 
 ## Short Description
