@@ -106,7 +106,7 @@
 
 ---
 
-## Sprint Timeline
+## Sprint Timeline 
 
 **Sprint Duration:** 2 weeks (10 working days)
 
