@@ -1,19 +1,21 @@
 # Cloud-Based Task Management App
 
-## Project Overview
+## Project Overview 
+
 This is a cloud-based task management application developed as part of the IS 384 – Cloud and DevOps course. The application enables teams to create, assign, track, and complete tasks in a collaborative environment.
 
 ## Short Description
 
 A cloud-based task management application that allows users to create tasks, assign them to team members, and track task completion. Built using modern cloud technologies and following Scrum methodology for development.
 
+
 ## Features
 
 - **Create Tasks** - Users can create new tasks with title, description, due date, and priority
-- **Assign Tasks** - Tasks can be assigned to team members
+- **Assign Tasks** - Tasks can be assigned to each team member
 - **Track Completion** - Users can mark tasks as complete and track progress
 - **Task List** - View, filter, and sort tasks
-- **Notifications** - Receive notifications for task assignments and updates
+
 
 ## Technology Stack
 
@@ -51,7 +53,7 @@ is384-scrum-task-app-CSN-03/
 
 ```
 
-## Development Workflow
+## DEVELOPMENT WORKFLOW
 
 This project follows Scrum methodology:
 

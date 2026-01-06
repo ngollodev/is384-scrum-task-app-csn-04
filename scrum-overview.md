@@ -128,7 +128,7 @@
 5. Feature is tested manually and works as expected
 6. No critical bugs or security vulnerabilities
 
-### Team Working Agreement
+### agreement among members
 - All code changes must go through Pull Request review
 - Minimum of 1 approval required before merging
 - Commit messages must follow conventional commit format
