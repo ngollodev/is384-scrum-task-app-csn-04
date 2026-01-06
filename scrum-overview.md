@@ -8,7 +8,7 @@
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | - Facilitate Scrum events<br>- Remove impediments<br>- Coach team on Scrum practices<br>- Protect team from external interference |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
-| Developer 3 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
+| Developer 3 | MAIMUNA BAKARI DIONI | 30954/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 | Developer 4 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 | Developer 5 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 
