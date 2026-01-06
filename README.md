@@ -52,7 +52,7 @@ is384-scrum-task-app-CSN-03/
 
 ```
 
-## Development Workflow
+## DEVELOPMENT WORKFLOW
 
 This project follows Scrum methodology:
 
