@@ -8,6 +8,7 @@ This is a cloud-based task management application developed as part of the IS 38
 
 A cloud-based task management application that allows users to create tasks, assign them to team members, and track task completion. Built using modern cloud technologies and following Scrum methodology for development.
 
+
 ## Features
 
 - **Create Tasks** - Users can create new tasks with title, description, due date, and priority
