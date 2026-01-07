@@ -2,7 +2,6 @@
 
 ## 1. Product Backlog
 
-
 ### Backlog Item 1: Add New Task
 - **Priority:** High (P0)
 - **Story Points:** 5
