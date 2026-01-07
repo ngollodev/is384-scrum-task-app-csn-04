@@ -20,7 +20,7 @@ A cloud-based task management application that allows users to create different 
 - **Frontend:** [To be determined - e.g., React, Vue.js, Angular]
 - **Backend:** [To be determined - e.g., Node.js, Python Flask/Django, Java Spring]
 - **Database:** [To be determined - e.g., PostgreSQL, MongoDB, MySQL]
-- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP]
+- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP, IBM cloud,oraclecloud, Alibabacloud. ]
 - **DevOps Tools:** Git, GitHub, CI/CD (to be implemented)
 
 ## Group Information
