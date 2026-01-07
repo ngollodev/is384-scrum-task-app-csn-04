@@ -184,5 +184,5 @@ Based on team capacity and sprint goal, the following items are selected for Spr
 
 ---
 
-**Note:** This sprint plan is a living document and may be updated during the sprint as new information becomes available. However, the Sprint Goal remains fixed for the duration of the sprint. 
+**Note:** This sprint plan is a living document and may be updated during the sprint as new information becomes available. However, the Sprint Goal remains fixed for the duration of the sprint..
 
