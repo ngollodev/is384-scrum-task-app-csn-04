@@ -11,7 +11,7 @@ A cloud-based task management application that allows users to create different 
 
 ## Features
 
-- **Create Tasks** - Users can create new tasks with title, description, due  date, and priority
+- **Create Tasks** - Users can create new tasks with title, description, due date, and priority
 - **Assign Tasks** - Tasks can be assigned to each team member
 - **Track Completion** - Users can mark tasks as complete and track progress
 - **Task List** - View, filter, and sort tasks assingned to members
