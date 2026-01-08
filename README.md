@@ -36,7 +36,7 @@ A cloud-based task management application that allows users to create tasks, ass
 
 | Role           | Name          | Registration Number | GitHub Username |
 |----------------|---------------|---------------------|----------------|
-| Product Owner | ASHURA ABASI JUMA | 31072/T.2023 | sheyriz |
+| Product Owner | ASHURA ABASI JUMAA| 31072/T.2023 | sheyriz |
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | holiday-UI |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | Chammy-5050 |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | ngollodev |
