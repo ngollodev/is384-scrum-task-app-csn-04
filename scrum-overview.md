@@ -16,7 +16,7 @@
 
 ## 2. Scrum Events
 
-### Sprint Planning
+### SPRINT PLANNING 
 - **Duration:** 2-4 hours (for a 2-week sprint)
 - **Participants:** Entire Scrum Team (Product Owner, Scrum Master, Developers)
 - **Agenda:**
