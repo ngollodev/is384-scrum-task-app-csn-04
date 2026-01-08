@@ -134,5 +134,5 @@
 - Commit messages must follow conventional commit format
 - Daily standup attendance is mandatory
 - Communicate blockers immediately
-- Respect each other's time and expertise
+- value each other's time and expertise
 
