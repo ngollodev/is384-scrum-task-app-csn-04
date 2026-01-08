@@ -16,7 +16,7 @@
 
 ## 2. Scrum Events
 
-### Sprint Planning
+### SPRINT PLANNING 
 - **Duration:** 2-4 hours (for a 2-week sprint)
 - **Participants:** Entire Scrum Team (Product Owner, Scrum Master, Developers)
 - **Agenda:**
@@ -134,5 +134,5 @@
 - Commit messages must follow conventional commit format
 - Daily standup attendance is mandatory
 - Communicate blockers immediately
-- Respect each other's time and expertise
+- value each other's time and expertise
 

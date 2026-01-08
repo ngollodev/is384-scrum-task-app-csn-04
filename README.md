@@ -20,7 +20,7 @@ A cloud-based task management application that allows users to create different 
 - **Frontend:** [To be determined - e.g., React, Vue.js, Angular]
 - **Backend:** [To be determined - e.g., Node.js, Python Flask/Django, Java Spring]
 - **Database:** [To be determined - e.g., PostgreSQL, MongoDB, MySQL]
-- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP]
+- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP, IBM cloud,firebase(by Google), Heroku. ]
 - **DevOps Tools:** Git, GitHub, CI/CD (to be implemented)
 
 ## Group Information
@@ -39,8 +39,7 @@ A cloud-based task management application that allows users to create different 
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | holiday-UI |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | Chammy-5050 |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | ngollodev |
-|Developer 3| NURU MOHAMED KISIMIKWE |32226/T.2023 | nur523 |
-|Engineer 4|EVANCE ELVIS MANYANGA| 30680/T.2023| evance126|
+|Developer 3| NURU MOHAMED KISIMIKWE |32226/T.2023 | nur523 |Developer 4  |MAIMUNA BAKARI DIONI  |30954/T.2023 |
 ## Repository Structure
 
 ```
