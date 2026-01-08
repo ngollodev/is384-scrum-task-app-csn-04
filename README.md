@@ -41,6 +41,8 @@ A cloud-based task management application that allows users to create tasks, ass
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | holiday-UI |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | Chammy-5050 |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | ngollodev |
+| Developer 3 | MAIMUNA BAKARI DIONI | 30954/T.2023 | maimunabakari |
+| Developer 4 | NURU MOHAMED KISIMIKWE | 32226/T.2023 | nur523 |
 
 ## Repository Structure
 
