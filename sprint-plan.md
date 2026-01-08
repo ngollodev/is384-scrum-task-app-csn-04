@@ -2,7 +2,6 @@
 
 ## 1. Product Backlog
 
-
 ### Backlog Item 1: Add New Task
 - **Priority:** High (P0)
 - **Story Points:** 5
@@ -107,7 +106,7 @@ Based on team capacity and sprint goal, the following items are selected for Spr
 |--------------|--------------|-------------|--------|
 | Add New Task | 5 | Developer 1 - KABWE KASIM RASHIDI | Not Started |
 | Assign Task to User | 8 | Developer 2 - JACOB LUCAS BULLUGU | Not Started |
-| Mark Task Complete | 3 | Developer 3 - [NAME] | Not Started |
+| Mark Task Complete | 3 | Developer 3 - DAVID ZENO SIKUKUU | Not Started |
 | Display Task List | 5 | Developer 4 - [NAME] | Not Started |
 | Notifications | 8 | Developer 5 - [NAME] | Not Started |
 
