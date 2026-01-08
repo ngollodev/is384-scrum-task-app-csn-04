@@ -8,15 +8,15 @@
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | - Facilitate Scrum events<br>- Remove impediments<br>- Coach team on Scrum practices<br>- Protect team from external interference |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
-| Developer 3 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
-| Developer 4 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
+| Developer 3 | MAIMUNA BAKARI DIONI | 30954/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
+| Developer 4 | NURU MOHAMEDKISIMIKWE | 32226/T.2023 | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 | Developer 5 | [YOUR_NAME] | [REG_NUMBER] | - Design and implement features<br>- Write clean, maintainable code<br>- Participate in code reviews<br>- Write unit tests |
 
 ---
 
 ## 2. Scrum Events
 
-### Sprint Planning
+### SPRINT PLANNING 
 - **Duration:** 2-4 hours (for a 2-week sprint)
 - **Participants:** Entire Scrum Team (Product Owner, Scrum Master, Developers)
 - **Agenda:**
@@ -106,7 +106,7 @@
 
 ---
 
-## Sprint Timeline
+## Sprint Timeline 
 
 **Sprint Duration:** 2 weeks (10 working days)
 
@@ -128,11 +128,11 @@
 5. Feature is tested manually and works as expected
 6. No critical bugs or security vulnerabilities
 
-### Team Working Agreement
+### agreement among members
 - All code changes must go through Pull Request review
 - Minimum of 1 approval required before merging
 - Commit messages must follow conventional commit format
 - Daily standup attendance is mandatory
 - Communicate blockers immediately
-- Respect each other's time and expertise
+- value each other's time and expertise
 

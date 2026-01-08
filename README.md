@@ -1,28 +1,26 @@
 # Cloud-Based Task Management App
 
-## Project Overview
+## Project Overview 
 
 This is a cloud-based task management application developed as part of the IS 384 – Cloud and DevOps course. The application enables teams to create, assign, track, and complete tasks in a collaborative environment.
 
 ## Short Description
 
-A cloud-based task management application that allows users to create tasks, assign them to team members, and track task completion. Built using modern cloud technologies and following Scrum methodology for development.
-
+A cloud-based task management application that allows users to create different tasks, assign them to each team member, and track task completion. Built using modern cloud technologies and following Scrum methodology for development.
 
 ## Features
 
 - **Create Tasks** - Users can create new tasks with title, description, due date, and priority
-- **Assign Tasks** - Tasks can be assigned to team members
+- **Assign Tasks** - Tasks can be assigned to each team member
 - **Track Completion** - Users can mark tasks as complete and track progress
-- **Task List** - View, filter, and sort tasks
-
+- **Task List** - View, filter, and sort tasks assingned to team members
 
 ## Technology Stack
 
 - **Frontend:** [To be determined - e.g., React, Vue.js, Angular]
 - **Backend:** [To be determined - e.g., Node.js, Python Flask/Django, Java Spring]
 - **Database:** [To be determined - e.g., PostgreSQL, MongoDB, MySQL]
-- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP]
+- **Cloud Platform:** [To be determined - e.g., AWS, Azure, GCP, IBM cloud,firebase(by Google), Heroku. ]
 - **DevOps Tools:** Git, GitHub, CI/CD (to be implemented)
 
 ## Group Information
@@ -37,7 +35,7 @@ A cloud-based task management application that allows users to create tasks, ass
 
 | Role           | Name          | Registration Number | GitHub Username |
 |----------------|---------------|---------------------|----------------|
-| Product Owner | ASHURA ABASI JUMA | 31072/T.2023 | sheyriz |
+| Product Owner | ASHURA ABASI JUMAA | 31072/T.2023 | sheyriz |
 | Scrum Master | DAVID ZENO SIKUKUU | 32347/T.2023 | holiday-UI |
 | Developer 1 | KABWE KASIM RASHIDI | 31432/T.2023 | Chammy-5050 |
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | ngollodev |
@@ -55,7 +53,7 @@ is384-scrum-task-app-CSN-03/
 
 ```
 
-## Development Workflow
+## DEVELOPMENT WORKFLOW
 
 This project follows Scrum methodology:
 
@@ -107,4 +105,3 @@ See `sprint-plan.md` for detailed Definition of Done criteria.
 ---
 
 **Note:** This is a group assignment for IS 384 – Cloud and DevOps. Repository access has been granted to the instructor (GitHub username: `christiansolomon`) for evaluation purposes.
-
