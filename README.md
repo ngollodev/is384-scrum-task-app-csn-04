@@ -41,6 +41,7 @@ A cloud-based task management application that allows users to create different 
 | Developer 2 | JACOB LUCAS BULLUGU | 32285/T.2023 | ngollodev |
 | Developer 3 | MAIMUNA BAKARI DIONI | 30954/T.2023 | maimunabakari |
 | Developer 4 | NURU MOHAMED KISIMIKWE | 32226/T.2023 | nur523 |
+| Developer 5 | EVANCE E MANYANGA | 30680/T.2023 | evance126 |
 
 ## Repository Structure
 
